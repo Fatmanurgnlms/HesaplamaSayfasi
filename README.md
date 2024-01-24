@@ -34,3 +34,12 @@ veriler.accdb: Kullanıcı verilerini depolayan Access veritabanı.
 
 Katılıma Açıklık
 Eğer bir hata bulursanız veya katkıda bulunmak istiyorsanız, lütfen bir "issue" açın veya bir "pull request" gönderin. Her türlü katılımınızı bekliyoruz.
+
+###Ekran Resimleri 
+![Ekran görüntüsü 2024-01-24 114722](https://github.com/Fatmanurgnlms/HesaplamaSayfasi/assets/133692897/a2596375-420c-41b8-bfe4-4315ccff1838)
+![Ekran görüntüsü 2024-01-24 114754](https://github.com/Fatmanurgnlms/HesaplamaSayfasi/assets/133692897/23927b97-3a6e-4338-b45b-52271fa39d32)
+![Ekran görüntüsü 2024-01-24 114853](https://github.com/Fatmanurgnlms/HesaplamaSayfasi/assets/133692897/81d7e1f0-7bb6-4b16-a545-730865c0ae71)
+![Ekran görüntüsü 2024-01-24 114942](https://github.com/Fatmanurgnlms/HesaplamaSayfasi/assets/133692897/4cc1e332-ca52-462f-94dc-a5ae9907a0a5)
+![Ekran görüntüsü 2024-01-24 115640](https://github.com/Fatmanurgnlms/HesaplamaSayfasi/assets/133692897/0364a303-ac56-4798-939a-acf85e7669ba)
+![Ekran görüntüsü 2024-01-24 115206](https://github.com/Fatmanurgnlms/HesaplamaSayfasi/assets/133692897/58921617-b756-4be2-b171-48c2f34e044c)
+
