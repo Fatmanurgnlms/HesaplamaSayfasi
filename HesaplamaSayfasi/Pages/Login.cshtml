@@ -1,0 +1,20 @@
+﻿@page
+@model WebVize.Pages.LoginPageModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div>
+    <h2>Login</h2>
+    <form method="post">
+        <label for="ad">Username:</label>
+        <input type="text" id="ad" name="ad" asp-for="ad" required />
+        <br />
+
+        <label for="sifre">Password:</label>
+        <input type="password" id="sifre" name="sifre" asp-for="sifre" required />
+        <br />
+
+        <button type="submit">Login</button>
+    </form>
+</div>
